@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Henry Nartey",
+        "employeeID": "ESCL001",
+        "position": "IT Manager",
+        "email": "henry@easy.com",
+        "ext": "1121"
+    },
+
+    {
+        "name": "Mr Francis",
+        "employeeID": "ESCL002",
+        "position": "HR Specialist",
+        "email": "francis@easy.com",
+        "ext": "1122"
+    },
+
+    {
+        "name": "Kofi Mole",
+        "employeeID": "ESCL003",
+        "position": "Sales Executive",
+        "email": "kofim@easy.com",
+        "ext": "1123"
+    },
+
+    {
+        "name": "Kwame Gee",
+        "employeeID": "ESCL004",
+        "position": "Programmer",
+        "email": "kwamegee@easy.com",
+        "ext": "1124"  
+    },
+
+    {
+        "name": "Martin Luther",
+        "employeeID": "ESCL005",
+        "position": "Chief driver",
+        "email": "martin@easy.com",
+        "ext": "1125"
+    },
+
+    {
+        "name": "Prince Charles",
+        "employeeID": "ESCL006",
+        "position": "Chief Security",
+        "email": "pcharles@easy.com",
+        "ext": "1126"
+    }
+
+]
